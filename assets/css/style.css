@@ -19,7 +19,7 @@ body::before {
   content: "";
   position: fixed;
   /* background-color: #ffb5a7 solid; */
-  background: #d5bdaf url("../img/front-01-01-01.png") top right no-repeat;
+  background: #d5bdaf url("../img/front-01-01-01-01.png") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -692,8 +692,8 @@ section .container {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #6d6875;
-  background: rgba(0, 0, 0, 0.1);
+  color: #f8edeb;
+  background: #b5838d;
   margin: 0 3px 10px 3px;
   transition: all 0.3s ease-in-out;
   border-radius: 4px;
