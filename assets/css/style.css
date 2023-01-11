@@ -883,21 +883,21 @@ section .container {
 }
 .contact .info-box i.bx {
   font-size: 24px;
-  color: #cb9ee9;
+  color: #6d6875;
   border-radius: 50%;
   padding: 14px;
   float: left;
-  background: rgba(134, 133, 133, 0.15);
+  background: #ffb5a7;
 }
 .contact .info-box h3 {
   font-size: 20px;
-  color: rgba(61, 60, 60, 0.5);
+  color: #6d6875;
   font-weight: 700;
   margin: 10px 0 8px 68px;
 }
 .contact .info-box p {
   padding: 0;
-  color:  #cb9ee9 ;
+  color:  ##ffb5a7 ;
   line-height: 24px;
   font-size: 14px;
   margin: 0 0 0 68px;
@@ -909,13 +909,13 @@ section .container {
 .contact .info-box .social-links a {
   font-size: 18px;
   display: inline-block;
-  color: #444444 ;
+  color: #ffb5a7 ;
   line-height: 1;
   margin-right: 12px;
   transition: 0.3s;
 }
 .contact .info-box .social-links a:hover {
-  color: #cb9ee9;
+  color: #6d6875;
 }
 .contact .php-email-form {
   padding: 30px;
